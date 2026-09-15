@@ -30,4 +30,4 @@ It demonstrates practical skills in designing, configuring, and troubleshooting 
 
 ### 📂 Author
 **Ahmed Farag** – IT Support Specialist  
-LinkedIn: [Your LinkedIn Profile Link]  
+LinkedIn: [https://www.linkedin.com/in/ahmed-farag-0510aa2a5/]  
